@@ -1,6 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://cbinhl6re7wkq"]
+[gd_scene load_steps=3 format=3 uid="uid://b4lxgb8rok6si"]
 
-[ext_resource type="Texture2D" uid="uid://50sx3540vdhw" path="res://projectymayham/henchman.png" id="1_522ea"]
+[ext_resource type="Texture2D" uid="uid://dqfxh7ttuo67o" path="res://henchman.png" id="1_toucd"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_234hm"]
 size = Vector2(78, 141)
@@ -8,7 +8,7 @@ size = Vector2(78, 141)
 [node name="CharacterBody2D" type="CharacterBody2D"]
 
 [node name="Henchman" type="Sprite2D" parent="."]
-texture = ExtResource("1_522ea")
+texture = ExtResource("1_toucd")
 hframes = 2
 vframes = 2
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://be7ptmjy5cjgs"
-path="res://.godot/imported/cop.png-c9c557299c4aa4efcbc41589f5935699.ctex"
+uid="uid://bcvj7646neltf"
+path="res://.godot/imported/cop.png-7519ac68c36b33ec1f0c30990384a52d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://projectymayham/cop.png"
-dest_files=["res://.godot/imported/cop.png-c9c557299c4aa4efcbc41589f5935699.ctex"]
+source_file="res://cop.png"
+dest_files=["res://.godot/imported/cop.png-7519ac68c36b33ec1f0c30990384a52d.ctex"]
 
 [params]
 

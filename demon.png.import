@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqfxh7ttuo67o"
-path="res://.godot/imported/henchman.png-ea881645c0fb46db1e874511eac20afe.ctex"
+uid="uid://i3cokl032l4d"
+path="res://.godot/imported/demon.png-b1f40a0f7397c087e5badc1ee22673a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://henchman.png"
-dest_files=["res://.godot/imported/henchman.png-ea881645c0fb46db1e874511eac20afe.ctex"]
+source_file="res://demon.png"
+dest_files=["res://.godot/imported/demon.png-b1f40a0f7397c087e5badc1ee22673a9.ctex"]
 
 [params]
 
