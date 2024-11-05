@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://50sx3540vdhw"
-path="res://.godot/imported/henchman.png-ea881645c0fb46db1e874511eac20afe.ctex"
+uid="uid://vlsis5f3njh6"
+path="res://.godot/imported/barmap.png-5ef52fe0d895628edc6291032a666e87.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://henchman.png"
-dest_files=["res://.godot/imported/henchman.png-ea881645c0fb46db1e874511eac20afe.ctex"]
+source_file="res://barmap.png"
+dest_files=["res://.godot/imported/barmap.png-5ef52fe0d895628edc6291032a666e87.ctex"]
 
 [params]
 

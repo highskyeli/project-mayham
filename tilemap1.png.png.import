@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://50sx3540vdhw"
-path="res://.godot/imported/henchman.png-ea881645c0fb46db1e874511eac20afe.ctex"
+uid="uid://ci3kuceeqka6j"
+path="res://.godot/imported/tilemap1.png.png-c78c1a5bded6ba5fffe97d5ab738c0f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://henchman.png"
-dest_files=["res://.godot/imported/henchman.png-ea881645c0fb46db1e874511eac20afe.ctex"]
+source_file="res://tilemap1.png.png"
+dest_files=["res://.godot/imported/tilemap1.png.png-c78c1a5bded6ba5fffe97d5ab738c0f3.ctex"]
 
 [params]
 
